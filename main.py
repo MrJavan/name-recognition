@@ -1,6 +1,6 @@
-f1 = open("data/file1.txt", "r")
-f2 = open("data/file2.txt" , "r")
-f3 = open("data/file3.txt" , "r")
+f1 = open("data/persian-boy-name.txt", "r")
+f2 = open("data/persian-girl-name.txt" , "r")
+f3 = open("data/persian-region-name.txt" , "r")
 # f4 = open("file4.txt" , "r")
 # f5 = open("file5.txt" , "r")
 
